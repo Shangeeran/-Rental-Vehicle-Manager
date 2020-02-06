@@ -1,0 +1,106 @@
+Registered vehicles are here,
+
+Motorbike {
+	 plateNumber           = BEO-7981
+	 price                 = 2500.0
+	 brand                 = Yamaha
+	 model                 = Fz 2.0
+	 colour                = Black
+	 fuelType              = Petrol
+	 maximumSpeed          = 134.0
+	 engineCapacity        = 149.0
+	 transmissionType      = Manual
+	 frontBreak            = Simple Disc brakes
+	 rearBreak             = Simple Drum brakes
+	 selfStart             = Yes
+	 } 
+
+Motorbike {
+	 plateNumber           = BBQ-2423
+	 price                 = 1500.0
+	 brand                 = Hero
+	 model                 = Pleasure
+	 colour                = Red
+	 fuelType              = Petrol
+	 maximumSpeed          = 105.0
+	 engineCapacity        = 100.0
+	 transmissionType      = Automatic
+	 frontBreak            = Simple Drum brakes
+	 rearBreak             = Simple Drum brakes
+	 selfStart             = Yes
+	 } 
+
+Car {
+	 plateNumber           = CSX-5555
+	 price                 = 5000.0
+	 brand                 = Honda
+	 model                 = Vezel
+	 colour                = White
+	 fuelType              = Petrol
+	 maximumSpeed          = 165.0
+	 engineCapacity        = 1500.0
+	 transmissionType      = Manual
+	 numberOfPassengers    = 5
+	 numberOfDoors         = 4
+	 haveAC                = Yes
+	 } 
+
+Motorbike {
+	 plateNumber           = CSD-8546
+	 price                 = 2000.0
+	 brand                 = Bajaj
+	 model                 = Pulsar
+	 colour                = Black
+	 fuelType              = Petrol
+	 maximumSpeed          = 135.0
+	 engineCapacity        = 180.0
+	 transmissionType      = Manual
+	 frontBreak            = Simple Disc brakes
+	 rearBreak             = Simple Drum brakes
+	 selfStart             = Yes
+	 } 
+
+Car {
+	 plateNumber           = CSD-8520
+	 price                 = 6000.0
+	 brand                 = BMW
+	 model                 = X1
+	 colour                = Black
+	 fuelType              = Diesl
+	 maximumSpeed          = 219.0
+	 engineCapacity        = 1995.0
+	 transmissionType      = Automatic
+	 numberOfPassengers    = 5
+	 numberOfDoors         = 4
+	 haveAC                = Yes
+	 } 
+
+Car {
+	 plateNumber           = CDS-3333
+	 price                 = 10000.0
+	 brand                 = BMW
+	 model                 = Z4
+	 colour                = White
+	 fuelType              = Petrol
+	 maximumSpeed          = 250.0
+	 engineCapacity        = 2998.0
+	 transmissionType      = Automatic
+	 numberOfPassengers    = 4
+	 numberOfDoors         = 4
+	 haveAC                = Yes
+	 } 
+
+Car {
+	 plateNumber           = BBQ-1452
+	 price                 = 3000.0
+	 brand                 = Honda
+	 model                 = Vezel
+	 colour                = Black
+	 fuelType              = Petrol
+	 maximumSpeed          = 222.0
+	 engineCapacity        = 1500.0
+	 transmissionType      = Automatic
+	 numberOfPassengers    = 5
+	 numberOfDoors         = 4
+	 haveAC                = Yes
+	 } 

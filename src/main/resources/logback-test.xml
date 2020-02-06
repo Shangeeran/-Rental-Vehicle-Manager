@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <include resource="org/springframework/boot/logging/logback/base.xml" />
+    <logger name="org.springframework" level="OFF"/>
+    <logger name="org.mongodb.driver.connection" level="OFF" />
+    <logger name="org.mongodb.driver.management" level="OFF" />
+    <logger name="org.mongodb.driver.cluster" level="OFF" />
+    <logger name="org.mongodb.driver.protocol.insert" level="OFF" />
+    <logger name="org.mongodb.driver.protocol.query" level="OFF" />
+    <logger name="org.mongodb.driver.protocol.update" level="OFF" />
+</configuration>
